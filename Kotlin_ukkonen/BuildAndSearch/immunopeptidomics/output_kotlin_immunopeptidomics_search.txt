@@ -1,0 +1,230 @@
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 21366.29
+	System time (seconds): 418.21
+	Percent of CPU this job got: 365%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:39:12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 33220980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4579
+	Minor (reclaiming a frame) page faults: 15382015
+	Voluntary context switches: 19422888
+	Involuntary context switches: 32347
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 36632
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 18888.41
+	System time (seconds): 323.71
+	Percent of CPU this job got: 338%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:34:30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 33203096
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4359
+	Minor (reclaiming a frame) page faults: 11869394
+	Voluntary context switches: 11948930
+	Involuntary context switches: 29654
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 34872
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 17606.99
+	System time (seconds): 234.17
+	Percent of CPU this job got: 315%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:34:06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32988260
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4347
+	Minor (reclaiming a frame) page faults: 8464601
+	Voluntary context switches: 2009265
+	Involuntary context switches: 29352
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 34776
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 17440.36
+	System time (seconds): 237.92
+	Percent of CPU this job got: 318%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:32:27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32974564
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4272
+	Minor (reclaiming a frame) page faults: 8360696
+	Voluntary context switches: 1550510
+	Involuntary context switches: 29974
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 34112
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 19138.10
+	System time (seconds): 291.36
+	Percent of CPU this job got: 332%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:37:32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 33204248
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 891
+	Minor (reclaiming a frame) page faults: 10376976
+	Voluntary context switches: 8422704
+	Involuntary context switches: 28471
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 7128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 19681.93
+	System time (seconds): 350.54
+	Percent of CPU this job got: 338%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:38:33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 33202436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3263
+	Minor (reclaiming a frame) page faults: 11475714
+	Voluntary context switches: 11665765
+	Involuntary context switches: 22533
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 26104
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 17999.38
+	System time (seconds): 243.09
+	Percent of CPU this job got: 320%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:34:43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32942600
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1889
+	Minor (reclaiming a frame) page faults: 8753097
+	Voluntary context switches: 1559637
+	Involuntary context switches: 26660
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 15064
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 17227.00
+	System time (seconds): 236.98
+	Percent of CPU this job got: 320%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:30:55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32985416
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2699
+	Minor (reclaiming a frame) page faults: 8317571
+	Voluntary context switches: 1706052
+	Involuntary context switches: 26816
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 21592
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 20487.50
+	System time (seconds): 387.84
+	Percent of CPU this job got: 361%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:36:10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 33204064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4440
+	Minor (reclaiming a frame) page faults: 13343173
+	Voluntary context switches: 18326466
+	Involuntary context switches: 32672
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 35512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "java -Xms15g -jar SuffixTree-1.0-SNAPSHOT-SuffixTreeUkkonenBuilder.jar /mnt/hdd/benchmarks/immunopeptidomics/protein_concat.txt --searchFile=/mnt/hdd/benchmarks/immunopeptidomics/search_file.tsv --no-progress"
+	User time (seconds): 16443.02
+	System time (seconds): 216.72
+	Percent of CPU this job got: 310%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:29:24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32895124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4118
+	Minor (reclaiming a frame) page faults: 8533968
+	Voluntary context switches: 1617337
+	Involuntary context switches: 19740
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 32944
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,230 @@
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4581.27
+	System time (seconds): 10597.31
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:13:28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978632
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209870
+	Voluntary context switches: 1
+	Involuntary context switches: 45506
+	Swaps: 0
+	File system inputs: 3240
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4597.53
+	System time (seconds): 10134.44
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:05:50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978668
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209870
+	Voluntary context switches: 1
+	Involuntary context switches: 41331
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4576.59
+	System time (seconds): 10124.73
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:05:25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209869
+	Voluntary context switches: 1
+	Involuntary context switches: 38433
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4547.94
+	System time (seconds): 10124.82
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:04:43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209870
+	Voluntary context switches: 1
+	Involuntary context switches: 43809
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4575.82
+	System time (seconds): 10281.62
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:07:41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209869
+	Voluntary context switches: 1
+	Involuntary context switches: 43329
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4585.49
+	System time (seconds): 10232.55
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:07:18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978632
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209870
+	Voluntary context switches: 1
+	Involuntary context switches: 40633
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4602.27
+	System time (seconds): 10240.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:07:44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209870
+	Voluntary context switches: 1
+	Involuntary context switches: 39026
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4667.02
+	System time (seconds): 10128.82
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:06:57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209871
+	Voluntary context switches: 1
+	Involuntary context switches: 43706
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4670.38
+	System time (seconds): 10193.38
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:08:03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978592
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209869
+	Voluntary context switches: 1
+	Involuntary context switches: 39957
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixtree /mnt/hdd/benchmarks/swissprot_var1/protein_concat.txt /mnt/hdd/benchmarks/swissprot_var1/search_file_no_mch.tsv"
+	User time (seconds): 4577.52
+	System time (seconds): 10125.58
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:05:30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87978592
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5064209867
+	Voluntary context switches: 1
+	Involuntary context switches: 39038
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
