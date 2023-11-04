@@ -1,0 +1,230 @@
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 35.51
+	System time (seconds): 8.18
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:43.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14137988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601629
+	Voluntary context switches: 1
+	Involuntary context switches: 108
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 34.59
+	System time (seconds): 7.05
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:41.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14138008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601623
+	Voluntary context switches: 1
+	Involuntary context switches: 91
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 35.05
+	System time (seconds): 7.34
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:42.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14137996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601700
+	Voluntary context switches: 1
+	Involuntary context switches: 115
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 35.18
+	System time (seconds): 7.26
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:42.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14137800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601625
+	Voluntary context switches: 1
+	Involuntary context switches: 78
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 34.98
+	System time (seconds): 6.89
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:41.88
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14137832
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601627
+	Voluntary context switches: 1
+	Involuntary context switches: 120
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 34.94
+	System time (seconds): 6.70
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:41.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14138056
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601643
+	Voluntary context switches: 1
+	Involuntary context switches: 78
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 35.20
+	System time (seconds): 6.75
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:41.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14137980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601625
+	Voluntary context switches: 1
+	Involuntary context switches: 107
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 35.18
+	System time (seconds): 6.89
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:42.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14137864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601632
+	Voluntary context switches: 1
+	Involuntary context switches: 104
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 34.74
+	System time (seconds): 6.86
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:41.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14138036
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601632
+	Voluntary context switches: 1
+	Involuntary context switches: 92
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./rust_implementations -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 35.12
+	System time (seconds): 6.79
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:41.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14138008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3601635
+	Voluntary context switches: 1
+	Involuntary context switches: 105
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
