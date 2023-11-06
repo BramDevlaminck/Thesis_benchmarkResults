@@ -10,3 +10,4 @@ cpp swissprot var 2 only hit: 179.346 ms
 ## hit and search subtree
 cpp immunopeptidomics with search in subtree: 1.45269e+06 ms
 cpp swissprot var 1 with search in subtree: 1.57777e+07 ms
+cpp swissprot var 2 with search in subtree: 1.54936e+07 ms
