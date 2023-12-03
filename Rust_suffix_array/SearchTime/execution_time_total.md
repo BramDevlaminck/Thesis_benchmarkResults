@@ -1,0 +1,50 @@
+all runs are the average of 100 executions, time is in ms
+# immunopeptidomics  
+match: 459.671376953125  
+min max bound: 647.7026733398437  
+all occurrences: 73284.92388427735  
+taxon id: 123362.23467529297  
+
+# swissprot var 1
+match: 522.13283203125  
+min max bound: 591.8597216796875  
+all occurrences: 625.5600708007812  
+taxon id: 3960.406572265625  
+
+# swissprot var 2
+match: 383.06416748046877  
+min max bound: 436.5779345703125  
+all occurrences: 461.5416577148437  
+taxon id: 5433.425778808593  
+
+# SIHUMI
+
+SIHUMI/S03 match: 92.2581396484375  
+SIHUMI/S03 min-max-bound: 95.158232421875  
+SIHUMI/S03 all-occurrences: 99.98901611328125  
+SIHUMI/S03 taxon-id: 1356.169091796875  
+
+SIHUMI/S05 match: 88.7735302734375  
+SIHUMI/S05 min-max-bound: 95.256982421875  
+SIHUMI/S05 all-occurrences: 96.99223388671875  
+SIHUMI/S05 taxon-id: 1409.6329223632813  
+
+SIHUMI/S07 match: 91.50265380859375  
+SIHUMI/S07 min-max-bound: 98.78953369140625  
+SIHUMI/S07 all-occurrences: 108.72378662109375  
+SIHUMI/S07 taxon-id: 1840.7379760742188  
+
+SIHUMI/S08 match: 92.354150390625  
+SIHUMI/S08 min-max-bound: 97.261943359375  
+SIHUMI/S08 all-occurrences: 109.3398388671875  
+SIHUMI/S08 taxon-id: 2690.016960449219  
+
+SIHUMI/S11 match: 95.3837451171875  
+SIHUMI/S11 min-max-bound: 98.94945556640624  
+SIHUMI/S11 all-occurrences: 109.3398388671875    
+SIHUMI/S11 taxon-id: 2401.87203125  
+
+SIHUMI/S14 match: 90.72038330078125  
+SIHUMI/S14 min-max-bound: 92.39575439453125  
+SIHUMI/S14 all-occurrences: 100.088798828125  
+SIHUMI/S14 taxon-id: 861.5477270507813  
