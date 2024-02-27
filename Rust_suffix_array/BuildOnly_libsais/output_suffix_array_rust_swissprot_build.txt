@@ -1,41 +1,18 @@
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 6.11
-	System time (seconds): 0.58
-	Percent of CPU this job got: 100%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.69
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 793584
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 288599
-	Voluntary context switches: 1
-	Involuntary context switches: 17
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 0
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 6.06
-	System time (seconds): 0.59
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.05
+	System time (seconds): 2.35
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.65
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.41
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791176
+	Maximum resident set size (kbytes): 2366808
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 287982
+	Minor (reclaiming a frame) page faults: 681728
 	Voluntary context switches: 1
-	Involuntary context switches: 20
+	Involuntary context switches: 64
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0
@@ -44,21 +21,21 @@
 	Signals delivered: 0
 	Page size (bytes): 4096
 	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 5.94
-	System time (seconds): 0.64
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.22
+	System time (seconds): 1.42
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.58
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.64
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791272
+	Maximum resident set size (kbytes): 2366568
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 287993
+	Minor (reclaiming a frame) page faults: 681679
 	Voluntary context switches: 1
-	Involuntary context switches: 18
+	Involuntary context switches: 76
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0
@@ -67,21 +44,21 @@
 	Signals delivered: 0
 	Page size (bytes): 4096
 	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 5.82
-	System time (seconds): 0.65
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.18
+	System time (seconds): 1.35
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.47
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.54
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791636
+	Maximum resident set size (kbytes): 2366712
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 288118
+	Minor (reclaiming a frame) page faults: 681689
 	Voluntary context switches: 1
-	Involuntary context switches: 12
+	Involuntary context switches: 49
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0
@@ -90,67 +67,21 @@
 	Signals delivered: 0
 	Page size (bytes): 4096
 	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 5.95
-	System time (seconds): 0.64
-	Percent of CPU this job got: 100%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.59
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791168
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 287970
-	Voluntary context switches: 1
-	Involuntary context switches: 17
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 0
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 6.04
-	System time (seconds): 0.62
-	Percent of CPU this job got: 100%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.66
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791816
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 288116
-	Voluntary context switches: 1
-	Involuntary context switches: 17
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 0
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 6.04
-	System time (seconds): 0.61
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.02
+	System time (seconds): 1.56
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.66
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.59
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791916
+	Maximum resident set size (kbytes): 2366496
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 288178
+	Minor (reclaiming a frame) page faults: 681674
 	Voluntary context switches: 1
-	Involuntary context switches: 15
+	Involuntary context switches: 74
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0
@@ -159,21 +90,21 @@
 	Signals delivered: 0
 	Page size (bytes): 4096
 	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 6.08
-	System time (seconds): 0.59
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.25
+	System time (seconds): 1.37
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.68
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.62
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791820
+	Maximum resident set size (kbytes): 2366544
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 288162
+	Minor (reclaiming a frame) page faults: 681670
 	Voluntary context switches: 1
-	Involuntary context switches: 17
+	Involuntary context switches: 36
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0
@@ -182,21 +113,21 @@
 	Signals delivered: 0
 	Page size (bytes): 4096
 	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 5.94
-	System time (seconds): 0.62
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.58
+	System time (seconds): 1.46
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.57
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.05
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 793008
+	Maximum resident set size (kbytes): 2367100
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 288454
+	Minor (reclaiming a frame) page faults: 681820
 	Voluntary context switches: 1
-	Involuntary context switches: 22
+	Involuntary context switches: 75
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0
@@ -205,21 +136,90 @@
 	Signals delivered: 0
 	Page size (bytes): 4096
 	Exit status: 0
-	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/immunopeptidomics/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only --construction-algorithm lib-div-suf-sort"
-	User time (seconds): 5.90
-	System time (seconds): 0.72
-	Percent of CPU this job got: 100%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.62
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.55
+	System time (seconds): 1.82
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.37
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 791880
+	Maximum resident set size (kbytes): 2366632
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 288121
+	Minor (reclaiming a frame) page faults: 681680
 	Voluntary context switches: 1
-	Involuntary context switches: 12
+	Involuntary context switches: 49
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 24.86
+	System time (seconds): 1.50
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2367540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 681904
+	Voluntary context switches: 1
+	Involuntary context switches: 82
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 24.91
+	System time (seconds): 1.40
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2366456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 681663
+	Voluntary context switches: 1
+	Involuntary context switches: 46
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./suffixarray -d /mnt/hdd/benchmarks/swissprot_var1/protein_database.tsv -t /mnt/hdd/benchmarks/taxons.tsv --build-only"
+	User time (seconds): 25.02
+	System time (seconds): 1.62
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2366596
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 681688
+	Voluntary context switches: 1
+	Involuntary context switches: 61
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0
