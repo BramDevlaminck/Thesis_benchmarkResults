@@ -1,6 +1,8 @@
 import sys
 import json
 
+# This script will convert a file that contains 1 peptide per line to a json with all those peptides that is accepted by the suffixarray server
+
 def peptide_to_json(peptide_file: str, output_file: str):
 	peptides = []
 	with open(peptide_file) as input_fp:
