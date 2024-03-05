@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# This script outputs all the triptic peptides from the input file
+
+# read from input file or stdin
+if test -n "$1"; then
+    file="$1"
+elif test ! -t 0; then
+    file="-"
+else
+    >&2 echo "No data provided"
+    exit 1
+fi
+
+# perform the grep
+cat "$file" | egrep "^((KP)|(RP)|[^KR])*[KR]?$"
